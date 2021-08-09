@@ -1,5 +1,1 @@
-# Email-Spam-Detector-Using-ML-on-Web
-
-How to run:
-
-streamlit run spamDetector.py
+# Emial_Spam_Classification
